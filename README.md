@@ -1,9 +1,3 @@
-# To-Do(CURD)
-To-Do web application based on CURD opeartion on Sql with the help of Spring MVC
-Sure, Abhishek! Here's a professional and well-structured `README.md` file tailored for your To-Do Web Application project using Spring MVC, MySQL, and Tomcat:
-
----
-
 # 📝 To-Do Web Application
 
 A simple and efficient To-Do List web application built using **Spring MVC** for backend logic, **MySQL** for persistent storage, and **Tomcat** as the testing server. This project demonstrates full **CRUD (Create, Read, Update, Delete)** operations in a modular and scalable architecture.
