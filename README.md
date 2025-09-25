@@ -98,6 +98,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 - Apache Tomcat
 - Maven Build Tool
 
----
 
-Let me know if you'd like to add screenshots, deployment instructions for cloud platforms, or a demo video link. I can also help you write a `CONTRIBUTING.md` or set up GitHub Actions for CI/CD.
