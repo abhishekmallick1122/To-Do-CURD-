@@ -108,7 +108,19 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 #### ✏️ UI
 ![User InterFace](screenshot/Screenshot%202025-09-26%20070837.png)
-)
+
+
+
+## 📬 Contact
+
+If you have any questions, suggestions, or want to collaborate, feel free to reach out:
+
+- **👤 Name:** Abhishek Mallick 
+- **📧 Email:** [abhishekmallick5049@gmail.com](mailto:abhishekmallick@gmail.com)  
+
+
+
+
 
 
 
