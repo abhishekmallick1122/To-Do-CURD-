@@ -98,4 +98,16 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 - Apache Tomcat
 - Maven Build Tool
 
+  ### 📸 Screenshots
+
+#### 🏠 Task List View
+![Task List](screenshot/Screenshot 2025-09-26 081753.png)
+
+#### ➕ Add Task
+![Add Task](screenshot/Screenshot 2025-09-26 070933.png)
+
+#### ✏️ UI
+![User InterFace](screenshot/Screenshot 2025-09-26 070837.png)
+
+
 
